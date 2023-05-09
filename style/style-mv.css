@@ -1,0 +1,32 @@
+.dropdown-toggle{
+    background-color: transparent !important;
+}
+.mov:hover,
+.fa-solid:hover{
+    color: greenyellow !important;
+}
+.bar{
+    border-bottom: 1px solid rgb(156, 173, 181);
+    border-top: 1px solid rgb(156, 173, 181);
+}
+.txt p , .txt span{
+    color: rgb(136, 133, 133);
+}
+.con-col{
+    background-color: #0b1a2a;
+    border: 2px solid #0f2133 !important;
+}
+
+.in-col{
+    background-color: #233a50;
+    border: 0;
+}
+.fcb , .tweet{
+    height: 600px;
+}
+.cb-col{
+    background-color: #0f2133;
+}
+.profile{
+transform: translateY(-200px);
+background-color:#0b1a2a;}
